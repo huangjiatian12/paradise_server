@@ -32,6 +32,12 @@
 $ npm install
 ```
 
+```
+$ yarn config set ignore-engines true 
+$ yarn install
+
+```
+
 ## Running the app
 
 ```bash
